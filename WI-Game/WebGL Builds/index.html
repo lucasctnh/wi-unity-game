@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Warehouse Invasion</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" width=1120 height=630 style="width: 1120px; height: 630px; background: #231F20"></canvas>
+    <script src="Build/WebGL Builds.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/WebGL Builds.data.gz",
+        frameworkUrl: "Build/WebGL Builds.framework.js.gz",
+        codeUrl: "Build/WebGL Builds.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Lucas Coutinho",
+        productName: "Warehouse Invasion",
+        productVersion: "1.0",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
+      });
+    </script>
+  </body>
+</html>
