@@ -16,7 +16,7 @@ The **unmodified** game assets are available for free at the [Unity Asset Store]
 
 Some sounds are also available for free at [freesound.org](https://freesound.org/) and [zapsplat.com](https://www.zapsplat.com/).
 
-Open sourced under the [MIT license](https://github.com/coutlcdo/WI-FPS-Unity/blob/main/LICENSE).
+Open sourced under the [MIT license](https://github.com/lcscout/WI-FPS-Unity/blob/main/LICENSE).
 
 ## Requirements
 This project requires [Unity3D](https://unity.com/) (2020.3.5+) to build and run. Clone this repository and open the WI-Game folder in Unity.
