@@ -1,4 +1,4 @@
-# Warehouse Invasion - OSS Unity Game
+# Warehouse Invasion - Open-source Unity Game
 ![Game Gif](https://github.com/coutlcdo/WI-FPS-Unity/blob/main/WI-Gif.gif "Game Gif")
 
 ## What is it about
