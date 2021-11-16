@@ -1,5 +1,7 @@
-# Warehouse Invasion - Open-source Unity Game
+# Warehouse Invasion - Unity Game
 ![Game Gif](https://github.com/coutlcdo/WI-FPS-Unity/blob/main/WI-Gif.gif "Game Gif")
+
+Open sourced under the [MIT license](https://github.com/lcscout/WI-FPS-Unity/blob/main/LICENSE).
 
 ## What is it about
 This is a FPS game with rogue-like features that I made to practice what I've learned from the Unity course: [Create with Code](https://learn.unity.com/pathway/junior-programmer).
@@ -15,8 +17,6 @@ The **unmodified** game assets are available for free at the [Unity Asset Store]
 - And the modular scenario: [Snaps Prototype | Sci-Fi / Industrial](https://assetstore.unity.com/packages/3d/environments/sci-fi/snaps-prototype-sci-fi-industrial-136759)
 
 Some sounds are also available for free at [freesound.org](https://freesound.org/) and [zapsplat.com](https://www.zapsplat.com/).
-
-Open sourced under the [MIT license](https://github.com/lcscout/WI-FPS-Unity/blob/main/LICENSE).
 
 ## Requirements
 This project requires [Unity3D](https://unity.com/) (2020.3.5+) to build and run. Clone this repository and open the WI-Game folder in Unity.
