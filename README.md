@@ -1,7 +1,7 @@
 # Warehouse Invasion - Unity Game
 ![Game Gif](https://github.com/coutlcdo/WI-FPS-Unity/blob/main/WI-Gif.gif "Game Gif")
 
-Open sourced under the [MIT license](https://github.com/lcscout/WI-FPS-Unity/blob/main/LICENSE).
+Open sourced under the [MIT license](https://github.com/lcscout/wi-unity-game/blob/main/LICENSE).
 
 ## What is it about
 This is a FPS game with rogue-like features that I made to practice what I've learned from the Unity course: [Create with Code](https://learn.unity.com/pathway/junior-programmer).
