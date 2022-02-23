@@ -10,6 +10,22 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
+Backups/
+Challenge 1/
+Challenge 2/
+Challenge 3/
+Challenge 4/
+Challenge 5/
+Counting Prototype/
+Error Project/
+Mod the Cube/
+Mod the Cube Challenge Assets/
+Prototype 1/
+Prototype 2/
+Prototype 3/
+Prototype 4/
+Prototype 5/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
