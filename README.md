@@ -8,6 +8,8 @@ This is a FPS game with rogue-like features that I made to practice what I've le
 
 Although it's a finished project I did not polish it that much - and I'm also not planning to do so - because it would've been very time consuming and I prefer to move on by now. That's said, bugs are expect.
 
+If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.me/projects/warehouse).
+
 ## Play the game
 Only the [WebGL](https://get.webgl.org/) build is available, thus you can play it online [here](https://play.unity.com/mg/other/webgl-builds-49946).
 
