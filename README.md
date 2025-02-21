@@ -8,10 +8,10 @@ This is a FPS game with rogue-like features that I made to practice what I've le
 
 Although it's a finished project I did not polish it that much - and I'm also not planning to do so - because it would've been very time consuming and I prefer to move on by now. That's said, bugs are expect.
 
-If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.me/projects/warehouse).
+If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.dev/projects/warehouse-invasion).
 
 ## Play the game
-Only the [WebGL](https://get.webgl.org/) build is available, thus you can play it online [here](https://play.unity.com/mg/other/webgl-builds-49946).
+Only the [WebGL](https://get.webgl.org/) build is available, thus you can play it online [here](https://play.unity.com/en/user/253b7b4e-0f7e-4bc0-9b77-96bb59baba29).
 
 ## Credits
 The **unmodified** game assets are available for free at the [Unity Asset Store](https://assetstore.unity.com/), in particular,
